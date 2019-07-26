@@ -1,0 +1,52 @@
+2019-03-22
+Facebook's live streaming is criticized after mosque shooting
+live streaming: 网络直播
+    streaming media 流媒体
+mosque: 清真寺
+spread across: 跨领域、跨平台传播
+yet again: 屡次，再次   He failed yet again.
+scrub: v.(尤指用硬毛刷、肥皂和水)擦洗，刷洗
+    scrub the floor / scrub yourself
+    Platforms including Twitter Inc. and YouTube said they moved fast to scrub any content related to the incident from their sites.
+widely available: 随处可见的    [ubiquitous]
+    People reported it was still widely available hours after begin first uploaded the alleged shooter's Facebook account.
+alleged: adj.(尤指在证据不足的情况下)被指控的   stated as a fact but without any proof
+    allege v.
+Facebook Chief Executive Officer Mark Zuckerberg has acknowledged the difficulty of policing content from the 2.7 billion users that power
+Facebook's wildly profitable advertising engine.
+police: v.控制，监督    to monitor
+power the engine 驱动引擎
+    The aircraft is powered by a jet engine.
+The company's business model depends on showing people posts they're most apt to have an emotional reaction to, which often has the side effect
+of amplifying fake news and extermism.
+be apt to: 易于做的，常做的 be likely to or having a natural tendency to do sth.
+    be apt to be forgetful
+side effect: n.副作用，连带后果
+amplify: v.扩大，增强   to increase sth.
+    to amplify a signal
+    After 2016, there is more awareness of society's bias and of the media's role in amplifying it.
+extremism: n.极端主义，偏激的观点
+Indeed, the livestream of the murders highlights how technology helped the alleged shooter connect with like-minded people online.
+like-minded: adj.意见相同的，想法一致的，兴趣相投的
+    Dozens of like-minded organizations will host training sessions for candidates.
+take down: 撤下，删除   take down the video
+contractor: n.承包商，承包方；合同制员工
+sift through: 详细筛查  to examine sth. very carefully in order to decide what is important or to find sth. important
+    sift through posts to take down offensive content
+    Critical thinking can give us tools to sift through information.
+    We must sift throught the evidence very carefully before we come to any conclusions.
+    sift: v.筛，过滤
+        sift to flour into a large bowel
+offensive: adj.冒犯的，令人不适的，厌恶的
+artificial intelligence algorithms:
+    More recently, the company said it made changes to its recommendation algorithms.
+    The company already uses it to identify nudity and terrorist content.
+nudity: n.赤裸，裸体(常指影视剧的裸体画面)
+    nude: 绘画、摄影、雕塑这种艺术领域的裸体人像
+sort: v./n. 把...分类，筛选，整理
+    sort through: sort through the mail
+    The recount process required sorting through more than a million pages of ballots.
+sophisticated: 精密的，复杂的，老练的   clever and complicated in the way that it works or is presented.
+    But at the moment, even the most sophisticated AI software struggles in categories where context matters.
+hate speech: 仇恨演讲，仇恨言论
+    Hate speech is one of those areas.

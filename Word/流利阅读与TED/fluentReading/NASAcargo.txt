@@ -1,0 +1,58 @@
+2019-06-23
+NASA picks three companies to send cargo to the moon
+NASA: 美国国家航天局 National Aeronatics and Space Administration
+cargo: n.(船或飞机装载的)货物
+    cargo ship 货船
+    seizure of cargo 扣押货物
+Three small companies that built robotic lunar landers are getting big business from NASA.
+business: 业务, 生意(往往不需要定冠词)
+    Internet dating is big business.
+lunar lander: 月球着陆器
+    lunar adj.月亮的    lunar calendar
+    land v.着陆, 落地   orbit v.沿着轨道运行
+    lander n.着陆器, 着陆舱     orbiter n.轨道飞行器
+...-based / ...of...: 总部位于...
+    Texas-based Intuitive Machines; Astrobotic of Pittsburgh
+executive: n.主管领导, 管理人员
+    CEO: chief executive officer
+    She is now a senior(高级的) executive, having worked her way up through the company.
+administrator: n.(公司、机构的)管理人员, 行政人员
+    NASA Administration 局长, 一把手
+    administration n.行政管理机构
+    CIA: Central Intelligence Agency    局长: CIA Director
+push: v.推; 推行, 推进, 使发展
+    push the plan
+    push the point 强调某种观点
+    Don't push yourself too hard.
+    NASA has been publicly pushing its plan to return astronauts to the moon within five years.
+"That's one small step for a man, one giant leap for mankind."
+The program is called Artemis, and it would mark the first crewed deep-space mission in nearly half a century.
+mark: v.标志着, 意味着; 成为
+    The success marks a turning point in his career.
+    The signing of the treaty marked a major milestone on the road to European Union.
+crew: v.给(飞机、航空器、船)配备工作人员 n.(船或飞机上的)全体工作人员
+    The boat is crewed by 5 people.
+deep-space: 外太空 outer space
+The program, however, faces political hurdles, and it's not clear where the money will come from.
+hurdle: n.跨栏比赛中的栏架      synonym: obstacle; difficulty
+    Getting a visa was the first hurdle to overcome.
+NASA and others want to create a lunar outpost that would require large amounts of infrastructure 
+and the technology to do things like convert the moon's water ice into rocket fuel.
+infrastructure: 基础设施
+    infra-: below 在...下面, 在...基础层面
+outpost: n.前哨基地
+    a military outpost
+there's: 那儿有...
+a hub of: ...的中心     synonym: center
+    commercial hub
+    Chicago is a hub of airline traffic.
+    Ultimately, the lunar outpost could become a hub of commercial and government activity.
+    That restaurant has served as a hub of the community for decades.
+NASA's vision for human habitation on the moon will drive the cislunar economy to grow exponentially.
+habitation: n.居住  the act of living in a place
+cislunar: adj.位于地球和月球之间的, 地月的
+    cis-: on this side 离我们更近的一侧
+exponentially: adv.成指数倍增地
+    exponent n.指数
+    The social security budget(社保预算) rose exponentially.
+    Over time, the number of refund requests have increased exponentially.

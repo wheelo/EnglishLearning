@@ -1,0 +1,56 @@
+2019-05-27
+How creepy is your smart speaker?
+smart speaker: 智能音箱
+creepy: adj.怪异的, 令人毛骨悚然的; 令人起鸡皮疙瘩的
+    creep v.蹑手蹑脚地行进
+    What a creepy ghost story!
+    That strange is creepy!
+deny the charges 否认指控 <-> plead guilty for the charges 认罪
+    Amazon's voice assistant denied the charges.
+But as smart speakers from Amazon, Apple and other technology giants proliferate, concerns that they 
+might be digitally snooping have become more widespread.
+privacy policy: 隐私政策
+proliferate: v.激增  to increase a lot and suddenly in number
+    synonym: surge; soar
+    BTS fans proliferate recently.
+snoop: v.(对别人的私生活)窥探, 窥视
+    reporters snooping on celebrities
+    Don't snoop into my affairs!
+As Alexa herself contends, smart speakers are not sending every utterance into the tech giants' digital vaults.
+contend: 1.v.竞争, 争夺; 2.声称, 断言
+    They are contending for a prize.
+    He contended that he was innocent and denied the charges.
+utterance: n.说话, 讲话
+    utter v.讲, 说出    -ance 动作、行为过程或状态
+        He did not utter a word.
+vault: n.保险库; (银行)金库     synonym: safe 保险柜
+    He is a vault. 守口如瓶
+Despite their name, the devices are simple-minded.
+mute: n.静音 adj.沉默的; 无声的
+    a mute appeal 无声的恳求
+trigger: v.引起, 引发(坏事) n.枪的扳机
+    He pulled the trigger and killed the robber.
+    The incident triggered World War I.
+assurance: n.保证
+    assure v.保证
+    Not everyone is convinced by such assurances.
+    I give you my assurance that the work will be done by Friday.
+    self-assurance 自信
+Are their makers using them to snoop on people and then exploiting that information to target online ads or offer them particular products?
+If eavesdropping is your problem, eschewing smart speakers does not solve it. Smartphones, which people
+blithely carry around with them, are even worse.
+eavesdrop: v.(故意)偷听, 窃听
+    eave n.屋檐     drop v.滴水
+    anti-eavesdropping device
+    overhear 无意中听到, 无意中听到
+eschew: v.回避, 避开; 放弃  synonym: avoid
+    eschew political discussions
+    eschew violence
+blithely: adv.快活地; 无忧无虑地    happily and without worry
+    The are blithely chatting, ignoring the customers.
+chief: 主要的   primary; main; most importance
+    The chief thing is that consumers should be able to choose how to balance convenience and policy.
+listen out for: 等着听, 注意听
+    They listen out for wake words, and then send what follows to the cloud as an audio clip.
+    Listen out for my call!
+    We listened out for the sound of his footsteps.

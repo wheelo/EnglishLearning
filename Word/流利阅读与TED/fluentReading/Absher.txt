@@ -1,0 +1,42 @@
+2019-03-02
+The Google and Apple app that helps Saudi men limit female relatives' travel
+A Saudi mobile application that lets men track and restrict the movements of women in the kingdom has 
+come under increased scrutiny this week with a U.S. senator and rights grouping urging Apple and Google 
+to remove it from their platforms, accusing the technology giants of facilitating gender discrimination.
+scrutiny: careful and thorough examination  受到严格审查
+    Politicians are under scrutiny all the time.
+with sb. doing sth.: 由于某人做了某事导致...
+facilitate: to make sth. possible or easier v.促使，促进
+    Reading books can facilitate language learning.
+    facility: n.设备，设施   toilet facility
+in question: 成问题的   His honesty is in question.
+    They begin with the object in question and then draw conclusions from it.
+    The whole project in now in question.
+The app in question, called Absher, was launched in 2015 by the Saudi government. It allows men to manage the women under their guardianship.
+guardianship: n.监护人身份
+    -ship: 身份  authorship, citizenship
+notification: n.通知，告示  notify: v.
+    We received written notification that Harry was missing.
+    The men can turn on notifications that alert them with a text message.
+    Many of us are already overwhelmed by notifications, overflowing inboxes and social media feeds.
+Critics say makes the tech companies complicit in the repression of Saudi women.
+complicit: involved with other people in sth. wrong or illegal  adj.有同谋关系的，串通的；狼狈为奸，同流合污
+    complicit in ...
+    Several officers were complicit in the cover-up.
+repression: n.(对人的情感欲望表达方面的)镇压，压迫    repress v.
+    sexual repression
+    Of course, states like East Germany and czechoslovakia were marked by political repression.
+pull...from..: 将...从...带走
+    The effort to pull Absher from the platforms got a boost this week. 得到支持
+It was used by the Saudi government to enable the abhorrent surveillance and control of women.
+abhorrent: adj.使人厌恶的,可恶的  abhorrent discrimination
+    abhor: v.痛恨，憎恨
+surveillance: n.监视    surveillance system
+    Some surveillance video images of the events at the mall were released on Tuesday.
+Crown Prince: 皇储，王储
+seek out: 寻求
+in efforts to: 努力做...    in efforts to improve yourself
+Saudi Arabia has sought out partnerships with global tech firms in efforts to enhance their economies.
+"If the tech companies would say, 'You are being oppressive,' that would mean a lot," Aldosary said.
+oppressive: adj.压迫的，压制的
+    oppress v.(对人和团体的)压迫，压抑    to treat sb. in a cruel and unfair way, especially by not giving them the same freedom, rights, etc. as other people

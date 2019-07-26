@@ -1,0 +1,52 @@
+2018-05-11
+2018 will be Xiaomi's coming-of-age year with the tech world's biggest ever IPO
+come of-age: 成年
+    a coming-of-age party
+tech: n.科技
+    tech company; tech business; tech world
+It's only been seven years since the launch of Xiaomi's first smartphone in August 2011. Now, the 
+Beijing-based firm is getting ready to raise an eye-watering tech IPO of at least $50 billion - expected 
+to be the biggest public listing the world has ever seen. That's double Alibaba's record-breaking 
+offering of $25 billion just three years prior.
+It's been ... since ...
+    It's been years since I rode the bike.
+launch: n.推出; 发行
+-based: 总部位于...的
+eye-watering: 极大的; 大额的    so high or so extreme that is difficult or painful to even think about it
+    The cost of getting your car repaired while abroad can be eye-watering.
+the world has ever seen: (夸张的修饰作用)
+    I'm going to light the biggest fire, the North has ever seen.
+Valued at roughly $46 billion following its last funding round in 2014, Xiaomi became the most 
+valuable private tech company at the time. Helped by its flash sales and savvy social media campaigns,
+the Chinese smartphone maker is at present the third largest unicorn just behind ride-sharing Didi 
+Chuxing and Uber , according to data compiled by CB Insights.
+private: 未上市的   <-> public 上市的
+flash sales: 快闪销售
+savvy: adj.精明的
+unicorn: n.独角兽
+ride-sharing: 拼车的; 共乘的
+    share economy
+hardware: n.硬件; 装备; 设备
+comment: v.评论; 提及
+    People were always commenting on his size.
+    The hardware maker hasn't commented on the timeline of the deal.
+transplant: v.移植
+    He is looking to transplant China's business ideas into other countries.
+ammunition: n.炸药
+    A well-timed(适时的) and successful IPO could bring in much-needed ammunition for the expansion.
+Still, = But,
+Still, with all the company has achieved in the past year, the valuation of a mega IPO is questioned
+by Simon Lee, CUHK business school professor. "My feeling is $50 billion is too high when taking into 
+account its sales performance and profitability. It is not justifiable at all." says the senior 
+lecturer of accountancy."
+mega: adj.巨大的, 宏大的; 杰出的
+valuation: n.估值
+    Facebook is world's largest social network, with a valuation of $520bn.
+profitability: n.盈利能力
+justificable: adj.合理的
+accountancy: n.会计学
+But the timing couldn't be better from an issuer standpoint.
+issuer: n.发行人
+standpoint: n.角度
+funding around: 融资
+IPO: 首次公开募股 initial public offerings

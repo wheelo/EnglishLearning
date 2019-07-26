@@ -1,0 +1,62 @@
+2019-06-04
+Tech's latest stars have it all - except a path to high profits
+in terms of: 就...而言; 以...来看
+    Investors often describe the world of business in terms of animals.
+Right now, mere ponies are being presented as unicorns: privately held tech firms worth over $1bn that
+are supposed strong and world-beating - miraculous almost.
+world-beating: adj.世界一流的
+    a world-beating athlete/company
+miraculous: adj.令人惊奇的, 不可思议的  miracle n.
+    a miraculous comeback 奇迹般的反败为胜
+    The diet promised miraculous weight loss.
+There is, however, a problem with the unicorns: their business models.
+list: v.上市
+    A dozen unicorns that have listed, or are likely to, posted combined losses of $14bn last year.
+cumulative: adj.累计的; 渐增的  synonym: increasing
+    Learning is a cumulative process.
+    Their cumulative losses are $47bn.
+Their services, from ride-hailing to office rental, are often deeply discounted in order to supercharge revenue growth.
+revenue: n.财政收入; 税收收入; 收益
+ride-hailing: adj.叫车的
+    hail v.叫车
+        hail a taxi
+supercharge: v.给(引擎)增压; 使...变强      synonym: boost
+The justification for this is the Silicon Valley doctine of "blitzscaling" in order to conquer "winner-takes-all"
+markets - or in plain English, conducting a high-speed land grab in the hope of finding gold.
+justification: n.理由; 辩护; 正当理由   a good reason why sth. exists or is done
+blitzscaling: 闪电式扩张
+    blitzkrieg 闪电战
+doctrine: n.信条, 学说  a belief or set of beliefs
+    Christian doctrine; military doctrine
+winner-takes-all: adj."赢者通吃"的
+The big worry is that the unicorns' losses reflect not temporary growing pains but markets which are 
+contested and customers who are promiscuous.
+contest: v.(为某事而)竞争, 角逐 n.比赛
+    The medal is contested by eight gymnasts.
+promiscuous: adj.淫乱的; 杂乱的
+subsidy: n.补贴; 津贴
+    housing subsidy; government subsidy
+        The company received a substantial government subsidy.
+    Despite subsidies, riding-sharing customers are not locked in to one firm.
+IPO: initial public offerings 首次公开募股
+lease: v.租借, 租用
+    lease an apartment; lease an office
+force: 力量
+    May the force be with you.
+    External forces will make blitzscaling harder, too.
+Compared with the earlier generation of firms, today a reaction is in full swing, 
+including over digital taxes and data and content laws.
+in full swing: 处于...高潮; 处于...顶峰     at the peak of activity
+    The party is in full swing.
+hold one's nerve: (在危急时刻)保持冷静
+    All this is good for consumers. Investors, meanwhile, need to hold their nerve.
+tempting: adj.吸引人的; 诱惑人的
+extrapolate: v.推断; 推知
+    It is tempting to extrapolate the triumph of Google and Alibaba to an entire new group of firms. 
+    You might extrapolate that all Canadians are friendly.
+    extrapolate sth. to sth.
+        You can't extrapolate the results to other patient groups.
+peak: v.达到顶峰
+    The blitzscale philosophy of buying customers at any price is peaking.
+engineer: v.设计; 建造
+    After the unicorns, a new and more convincing species of startup will have to be engineers.

@@ -1,0 +1,54 @@
+2019-03-10
+Doctors knock out sheep to discover anesthesia's dark side
+anesthesia: n.麻醉
+    The surgery was carried out under anesthesia.
+    anesthetic n.麻醉剂，麻醉药
+    The flaws in current methods for diagnosis date back to some of the earliest research in the 1950s.
+knock out: to make sb. fall asleep or become unconscious 打昏，使晕倒
+dark side: 阴暗面
+Beneath green surgical sheets and a tangle of tubes, a healthy young ewe is undergoing a heart-lung bypass procedure
+to help answer one of several urgent questions about a pillar of modern medicine: anesthesia.
+surgical: adj.外科手术的    surgical procedure
+tangle: n.(线、毛发等)缠结的一团，乱团，乱糟糟的一堆 v.使炸作一团
+    a tangle of
+    a tangle of wires
+ewe: n.母羊，雌羊
+undergo a (surgical) procedure 接受一项手术
+    undergo: v.经历，经受(不愉快的事)   undergo trials
+bypass: vt. 绕开；忽视；设旁路；迂回 n. 旁路；[公路] 支路
+pillar: n.核心，基础，支柱
+    Equality is one of the pillars of socialism.
+Almost two centuries after anesthetics revolutionized surgery, a growing body of research is pointing to disturbing side effects
+that range from delirium to cancer-proliferating immune suppression.
+revolutionize: vt.彻底改变，完全变革
+    Newton's discoveries revolutionized physics.
+    She promised to revolutionize Yahoo's business model, culture and public image.
+a body of: 一片的，大量的   a (large) body of water/people
+disturbing: adj.使人忧虑/焦虑/心烦的 to cause sb. to be worried or upset
+side effect: 副作用
+range from A to B: 波及范围从A到B
+proliferate: v.迅速增值(繁殖)，猛增
+    Small businesses has proliferated int the last ten years.
+    In the wake of the recent American election, fears and anxieties proliferate.
+immune: adj.免疫的  immune system
+    be immune to sth.: Few men were immune to her charms.
+suppress: vt. 抑制；镇压；废止  The rebellion was suppressed.
+    "Let's be clear: Voter suppression is real."
+immune suppression: 免疫抑制
+cardiac: adj.心脏的；心脏病的   non-cardiac surgery
+volatile: adj.易挥发的，易发散的    volatile-gas
+    Petrol is a volatile substance.
+be associated with / correspond with sth. 与...相一致,与...相关联
+    Your account of the events does not corrrespond with hers.
+    They found that a rising number of immigrants in the country illegally corresponded with a drop, not rise, in reported crime.
+potentially: adv.潜在地，可能地
+abdominal: adj.腹部的，肚子的   abdomen n.
+    abdominal pains
+    abdominal muscles = ab 腹肌
+intravenous: adj.注入静脉的，静脉内的    intra- 在...里的   vein 静脉
+    an intravenous injection
+inhale: v.吸入,吸气     the inhaled gas form
+    She closed her eyes and inhaled deeply.
+    exhale: v.呼出，呼气    in- 进  ex- 出
+critical care unit 危症监护病房
+preclinical: adj.临床前的；潜伏期的

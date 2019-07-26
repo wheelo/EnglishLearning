@@ -1,0 +1,60 @@
+2019-04-03
+Apple's 'show time' event puts the spotlight on subscription services
+put the spotlight on sth.: 聚焦在某事上
+spotlight: n.聚光灯
+    Mr.Jackson lived a majority of his life in the spotlight.
+subscription service: 订阅服务
+    subscribe v.    subscription n.
+commonplace: adj.普遍的，常见的 n.
+    Apple's business has centered around the iPhone, but sales of that once-revolutionary but now commonplace device have slowed.
+flip on one's head: 颠覆
+    flip: v.快速翻转, 迅速翻动
+    The entire world of computers has been flipped on its head.
+    flip a coin
+diversify: v.多样化; (通常指公司)多元化经营
+    The company is planning to diversify into other mining activities.
+    Apply has been diversifying beyond hardware, selling iCloud storage to its customers.
+    In an effort to diversify their bodies, universities are recruiting students of different racial and ecomonic backgrounds.
+hardware: n.硬件    ware: n.制品
+    software: n.软件
+anticipated: adj.让人期盼的; 备受瞩目的
+    anticipate: v.期盼，盼望
+    Monday's anticipated announcement takes that diversification to a whole new level.
+a raft of: 大量的   a large number of...
+    raft: n.木筏; 大量
+    a raft of data
+    Apple said it was launching a raft of new services, from news to video games and a credit card.
+    We have designed a raft of measures to improve the transport system.
+    The government announced a raft of initiatives.
+initiative: n.倡议，新措施  a new plan to achieve sth. or solve a problem
+    a government initiative to combat unemployment
+    It's biggest initiative is entertainment streaming service Apple TV+.
+compete in a crowded market
+The real magic in consumer technology is happening less and less inside the devices people carry around and more and more
+in server farms scattered around the world.
+magic: 魅力     the magic of the city
+server farm: 服务器农场     same as: server cluster
+scattered: adj.分散的
+    Books were scattered around the room.
+    scattered showers 零星小雨; 零星阵雨
+    scatter: v.
+    The airline anticipated scattered delays and said travellers should check its website for the updates on specific flights.
+transmit: v.传送; 传输(信号)
+    to transmit data/information
+    Faxing will remain important until transmitting digital data becomes easier and more accepted.
+gadget: n.小器具; 小装置
+    Massive amounts of data get processed and then transmitted to gadgets like the Amazon Echo or Google Home.
+In essence, the gadgets people are excited about buying are becoming vessels for sending and receiving data.
+in essence: 本质上，实质上
+vessel: n.容器; 血管
+    a drinking vessel / blood vessel
+And in that data, Apple has fallen behind companies like Google, Amazon and Microsoft, which now pull in significant revenue
+from selling cloud services, which is a fancy term for data center usage and storage.
+pull in: 挣(钱) to earn a particular amount of money    (synonym: earn, make)
+    She's pulling in at least a million dollars.
+fancy: adj.洋气的; 花哨的; 豪华的
+invitee: n.受到邀请的人
+    an invitee to the White House
+    The invite Apple sent to invitees said simply, "It's show time."
+break a leg: 祝对方好运(尤指在上台演出之前) used for wishing sb. good luck, especially before a performance
+    The question now is whether Apple can break a leg.

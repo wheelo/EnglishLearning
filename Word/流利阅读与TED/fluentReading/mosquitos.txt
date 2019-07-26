@@ -1,0 +1,56 @@
+2019-05-16
+Scientists discover how mosquitos detect human sweet
+Scientists have known for decades that mosquitos are attracted to the lactic acid contained in human sweat,
+but in the era before advanced genetics, the precise mechanism had remained a mystery.
+mosquito: n.蚊子
+detect: v.探测, 检测, 测出
+    synonym: discover
+    detect symptoms of the disease
+    detect radiation
+lactic acid: 乳酸
+    lactic adj.乳汁的   acid adj.酸味的; 说话尖钻刻薄的
+    acid fruit 酸的水果     acid remark 尖酸刻薄的话
+era: (具有任何特点的)时代, 时期
+    the era of artificial intelligence.
+    The era of 5G networks is dawning.
+mechanism: n.机械零件; 运行机制
+    machine
+    the mechanism of the brain  /   the immune system's mechanism
+A team of researchers have discovered the olfactory receptor that allows the disease-carrying insects
+to hone in on our odor - and how to switch it off.
+olfactory: adj.嗅觉的
+    the olfactory cells in the nose
+receptor: n.感受器; 受体    to focus or concentrate on sth.
+hone in on: (导弹)瞄准(轰炸目标); 聚焦, 锁定在某物上    to focus or concentrate on sth.
+    The missile honed in on the ship.
+    home in on; zero in on
+odor: n.气味    a quality of sth. that stimulates the olfactory organ   (synonym: smell)
+    the odor of rotting fruit
+    the odor of chocolate
+switch off: 关闭(电灯/机器); [生物]关闭(受体)   synonym: turn off
+They published their work on the Aedes aegypti mosquitos, known for spreading deadly illnesses like Zika, dengue and yellow fever.
+on: 涉及某个学科或主题(经常用于论文或书籍)
+    a book on insects
+    Her thesis is on American literature.
+Aedes aegypti: 埃及伊蚊
+Zika: 寨卡(病毒)    dengue: 登革热      yellow fever: 黄热病
+deadly: adj.致命的  fatal
+guilty receptor: 罪魁祸首的受体
+process of elimination: 排除法
+mutant: adj.变体的, 变异的  n.突变体; 变种人
+Tasked with investigating IR8a, Raji began by carrying out an exposure experiment using his own arm,
+and found the mutant mosquitos were significantly less attracted to him than wild ones.
+task sb. with sth.: 给某人委派某项任务
+exposure experiment: 暴露实验
+subject: n.接受实验者; 实验对象
+    The outcome was confirmed through testing on 14 additional subjects.
+The findings could offer a roadmap for a new generation of attractants that lure adult specimens 
+into traps for population control, as well as advanced repellants that make people invisible to 
+mosquitos - thought that could be some way away.
+specimen: (某一生物)个体
+roadmap: n.路线图; 计划, 指导   a plan or set of instructioins that makes it easier for sb. to do sth.
+    same as: road map       synonym: guideline
+attractant: n.引诱剂
+    attract v.吸引      -ant 用作...的东西
+repellant: n.驱虫剂, 驱蚊剂
+    repel v.驱赶, 击退   -ant 用作...的东西
